@@ -22,7 +22,7 @@ def position_taken?(board, index)
 end 
 
 
-board = [" ", " ", " ", " ", "X", " ", " ", " ", " "]
-index = 4
-valid_move?(board, index)
-position_taken?(board, index)
+# board = [" ", " ", " ", " ", "X", " ", " ", " ", " "]
+# index = 4
+# valid_move?(board, index)
+# position_taken?(board, index)
